@@ -34,7 +34,7 @@ The basic procedures implemented to achieve the objective of this project are:
 18. Model Evaluation: R-Squared, Mean Absolute Error, Mean Squared Error, Root Mean Square Error
 19. K-fold Cross-Validation
 20. Residual Plot
-21. Cross-Validation
+21. Cross-Validation score
 
 
 **Python Libraries used**
